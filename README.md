@@ -1,12 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ae0000&reversal=false&textBg=false&descAlign=0&descAlignY=0&animation=fadeIn&fontAlign=0&fontAlignY=0&stroke=ac0000&strokeWidth=4">
+<div align="center">
+  
+  # Hello There 👋 I'm Gabriel 
+</div>
 
-# Hello There 👋 I'm Gabriel 
 I'm currently majoring in computer science!
 - Studying HTML, CSS and Javascript.
 - Making part of an APP development project.
 
 ## Stats:
-<div display:flex>
+<div display:flex align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriels404&theme=dark&show_icons=true&icon_color=b10a1d&title_color=e7d700">
 </div>
 
