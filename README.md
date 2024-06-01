@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ae0000&reversal=false&textBg=false&descAlign=0&descAlignY=0&animation=fadeIn&fontAlign=0&fontAlignY=0&stroke=ac0000&strokeWidth=4">
+
 # Hello There 👋 I'm Gabriel 
 I'm currently majoring in computer science!
 - Studying HTML, CSS and Javascript.
@@ -22,3 +24,5 @@ I'm currently majoring in computer science!
   <a href="https://www.linkedin.com/in/gabriel-soares-cintra-227446228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabcintra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ae0000&reversal=false&textBg=false&descAlign=0&descAlignY=0&animation=fadeIn&fontAlign=0&fontAlignY=0&stroke=ac0000&strokeWidth=4&section=footer">
