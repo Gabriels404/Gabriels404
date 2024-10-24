@@ -5,7 +5,7 @@
 </div>
 
 I'm currently majoring in computer science!
-- Studying Javascript, TypeScript, Node and Express.
+- Studying Javascript, TypeScript, React, Node and Express.
 - Making part of an APP development project.
 
 ## Stats:
